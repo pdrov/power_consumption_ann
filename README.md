@@ -1,4 +1,4 @@
-# Power Consumption Forecast using Artificial Nerual Network
+# Power Consumption Forecasting using Artificial Nerual Network
 
 The use of artificial neural networks can accurately predict future power consumption of power generators to efficiently balance the supply with the demand. Such a system can prove useful to deliver uninterrupted power supply to essential facilities, optimize allocation of power resources, and better manage decisions for grid planning. Data used by [Hourly Energy Consumption | Kaggle](https://www.kaggle.com/robikscube/hourly-energy-consumption) will be used to create a prediction model for an electric transmission system serving parts of Delaware, Illinois, Indiana, Kentucky, Maryland, Michigan, New Jersey, North Carolina, Ohio, Pennsylvania, Tennessee, Virginia, West Virginia, and the District of Columbia. Matlab will be used to develop the test and training models and the Deep Learning Toolbox will be used to create the artificial neural network of our model. 
 
